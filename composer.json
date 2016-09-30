@@ -1,5 +1,5 @@
 {
-    "name": "orzcc/taobao-top-client",
+    "name": "tenstone/taobao-top-client",
     "type": "library",
     "description": "Taobao top client(SDK) for laravel 5.1",
     "keywords": ["taobao", "laravel", "sdk", "api"],
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "orzcc",
-            "email": "orzcczh@gmail.com"
+            "name": "tenstone",
+            "email": "tenstone@foxmail.com"
         }
     ],
     "require": {
