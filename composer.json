@@ -1,13 +1,13 @@
 {
-    "name": "tenstone/taobao-top-client",
+    "name": "LTSTeam/oapi-taobao-client",
     "type": "library",
     "description": "Taobao top client(SDK) for laravel 5.1",
     "keywords": ["taobao", "laravel", "sdk", "api"],
-    "homepage": "https://github.com/orzcc/taobao-top-client",
+    "homepage": "https://github.com/LTSTeam/oapi-taobao-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "tenstone",
+            "name": "LTSTeam",
             "email": "tenstone@foxmail.com"
         }
     ],
