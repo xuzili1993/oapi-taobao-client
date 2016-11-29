@@ -1,5 +1,5 @@
 {
-    "name": "LTSTeam/oapi-taobao-client",
+    "name": "ltsteam/oapi-taobao-client",
     "type": "library",
     "description": "Taobao top client(SDK) for laravel 5.1",
     "keywords": ["taobao", "laravel", "sdk", "api"],
