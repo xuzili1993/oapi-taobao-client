@@ -4,7 +4,7 @@
 
 ## laravel
 ### 安装
-`composer require tenstone/taobao-top-client`
+`composer require ltsteam/oapi-taobao-client`
 ### 配置
 * 在config/app.php中的providers数组中添加`Tenstone\TopClient\TopClientServiceProvider::class,`
 * 在config/app.php中的aliases数组中添加`'TopClient' => Tenstone\TopClient\Facades\TopClient::class,`
