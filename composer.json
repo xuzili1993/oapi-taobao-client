@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Taobao top client(SDK) for laravel 5.1",
     "keywords": ["taobao", "laravel", "sdk", "api"],
-    "homepage": "https://github.com/LTSTeam/oapi-taobao-client",
+    "homepage": "https://github.com/LTSTeam/sku-Inventory-manage.git",
     "license": "MIT",
     "authors": [
         {
